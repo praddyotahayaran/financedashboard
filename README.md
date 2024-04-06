@@ -38,4 +38,5 @@ Overall, a Finance Dashboard Power BI project aims to empower organizations with
 
 ## Screenshot
 
-![Screenshot 2024-04-06 135951](https://github.com/praddyotahayaran/financedashboard/assets/94554048/8a171d04-d808-4ead-94c0-e6483c17854f)
+![Screenshot 2024-04-06 150719](https://github.com/praddyotahayaran/financedashboard/assets/94554048/a02bb0e8-fccb-432a-8894-8b564f2fefee)
+
